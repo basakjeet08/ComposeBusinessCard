@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Compose Business Card</string>
+    <string name="name">Anirban Basak</string>
+    <string name="android_developer">Android Developer Extraordinaire</string>
+    <string name="ph_number">+91 7478192996</string>
+    <string name="work">\@Android Developer</string>
+    <string name="email">jeetbasak2002@gmail.com</string>
 </resources>
